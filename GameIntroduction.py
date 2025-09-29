@@ -1,0 +1,5 @@
+print("Hello! Welcome to the Spanish Learning Game.")
+print("In this game, you will learn basic Spanish vocabulary.")
+print("Let's start with some common words and their meanings.")
+print("so you can learn Spanish easily and have fun!")
+print("Here are some words to get you started:")
